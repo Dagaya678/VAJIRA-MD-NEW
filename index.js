@@ -10,9 +10,9 @@
 ░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝  ░░░░░░  ╚═╝░░░░░╚═╝╚═════╝░
 
 
-* Project name - VAJIRA- MD 
-* Author - Vajira Rathnayaka
-* Team - Technical Cybers 
+* Project name - Dagaya- MD 
+* Author - ishara
+* Team - Dagaya Cybers 
 * Version - V6
 
 World best and powerfull whatsapp user bot in Sri lanka*/
