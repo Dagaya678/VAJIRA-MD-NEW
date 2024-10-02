@@ -9,7 +9,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=Dagaya-king-MD" alt="Typing SVG" /></a>
 </p>
 <p align="center">
-<a href="https://github.com/VajiraTech">
+<a href="https://github.com/Dagaya">
     <img src="https://telegra.ph/file/44ff060a7b96ff6c0a42a.jpg"  width="700px">
 </a>
 <hr>
@@ -17,39 +17,39 @@
 
 <p align="center">
 
-  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
+  <a href="https://github.com/Dagaya/Dagaya-king-MD">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVajiraTech%2FVAJIRA-MD-NEW&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
   </a>
-  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW/fork">
-    <img src="https://img.shields.io/github/forks/VajiraTech/VAJIRA-MD-NEW?label=Fork&style=social">
+  <a href="https://github.com/Dagaya/Dagaya-king-MD/fork">
+    <img src="https://img.shields.io/github/forks/Dagaya/Dagaya-king-MD?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/VajiraTech/Dagaya-king-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/VajiraTech/VAJIRA-MD-NEW?style=social">
+  <a href="https://github.com/DagayaTech/Dagaya-king-MD/stargazers">
+    <img src="https://img.shields.io/github/stars/Dagaya/Dagaya-king-MD?style=social">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/VajiraTech/Dagaya-king-MD">
-    <img src="https://img.shields.io/github/repo-size/VajiraTech/Dagaya-king-MD?color=purple&label=Repo%20Size&style=plastic">
+  <a href="https://github.com/DagayaTech/Dagaya-king-MD">
+    <img src="https://img.shields.io/github/repo-size/DagayaTech/Dagaya-king-MD?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
-  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
-    <img src="https://img.shields.io/github/license/VajiraTech/Dagaya-king-MD?color=purple&label=License&style=plastic">
+  <a href="https://github.com/DagayaTech/Dagaya-king-MD">
+    <img src="https://img.shields.io/github/license/DagayaTech/Dagaya-king-MD?color=purple&label=License&style=plastic">
 
   </a>
-  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
-    <img src="https://img.shields.io/github/languages/top/VajiraTech/Dagaya-king-MD?color=purple&label=Javascript&style=plastic">
+  <a href="https://github.com/DagayaTech/Dagaya-king-MD">
+    <img src="https://img.shields.io/github/languages/top/DagayaTech/Dagaya-king-MD?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="https://github.com/VajiraTech/Dagaya-king-MD">
+  <a href="https://github.com/DagayaTech/Dagaya-king-MD">
     <img src="https://img.shields.io/static/v1?label=Author&message=Vajira%20Rathnayake&color=purple&style=plastic">
 
   </a>
   </p>
  <p align="center">
-  <a href="https://github.com/VajiraTech/Dagaya-king-MD">
+  <a href="https://github.com/DagayaTech/Dagaya-king-MD">
     <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-Technical%20Cybers%20(TC)-purple&style=plastic">
 
   </a>
@@ -70,7 +70,7 @@
 
 ## 🎀 STEP 01 -  Fork The Repo
 
-<a href="https://github.com/VajiraTech/VAJIRA-MD-NEW/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK Dagaya-king-MD REPO" width="150"></a>
+<a href="https://github.com/DagayaTech/Dagaya-king-MD/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK Dagaya-king-MD REPO" width="150"></a>
 </br>
 <img src="https://imgur.com/a/Nf3u7YN" height="90" width="100%">
 <br>
