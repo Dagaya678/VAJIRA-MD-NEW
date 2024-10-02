@@ -6,7 +6,7 @@
 <img src="https://imgur.com/a/Nf3u7YN" height="90" width="100%">
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=VAJIRA+MD+WHATSAPP+BOT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=Dagaya-king-MD" alt="Typing SVG" /></a>
 </p>
 <p align="center">
 <a href="https://github.com/VajiraTech">
@@ -31,25 +31,25 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
-    <img src="https://img.shields.io/github/repo-size/VajiraTech/VAJIRA-MD-NEW?color=purple&label=Repo%20Size&style=plastic">
+  <a href="https://github.com/VajiraTech/Dagaya-king-MD">
+    <img src="https://img.shields.io/github/repo-size/VajiraTech/Dagaya-king-MD?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
   <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
-    <img src="https://img.shields.io/github/license/VajiraTech/VAJIRA-MD-NEW?color=purple&label=License&style=plastic">
+    <img src="https://img.shields.io/github/license/VajiraTech/Dagaya-king-MD?color=purple&label=License&style=plastic">
 
   </a>
   <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
-    <img src="https://img.shields.io/github/languages/top/VajiraTech/VAJIRA-MD-NEW?color=purple&label=Javascript&style=plastic">
+    <img src="https://img.shields.io/github/languages/top/VajiraTech/Dagaya-king-MD?color=purple&label=Javascript&style=plastic">
 
   </a>
-  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
+  <a href="https://github.com/VajiraTech/Dagaya-king-MD">
     <img src="https://img.shields.io/static/v1?label=Author&message=Vajira%20Rathnayake&color=purple&style=plastic">
 
   </a>
   </p>
  <p align="center">
-  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW">
+  <a href="https://github.com/VajiraTech/Dagaya-king-MD">
     <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-Technical%20Cybers%20(TC)-purple&style=plastic">
 
   </a>
@@ -70,14 +70,14 @@
 
 ## 🎀 STEP 01 -  Fork The Repo
 
-<a href="https://github.com/VajiraTech/VAJIRA-MD-NEW/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK VAJIRA MD REPO" width="150"></a>
+<a href="https://github.com/VajiraTech/VAJIRA-MD-NEW/fork"><img src="https://img.shields.io/badge/Fork%20Repo-blue" alt="FORK Dagaya-king-MD REPO" width="150"></a>
 </br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<img src="https://imgur.com/a/Nf3u7YN" height="90" width="100%">
 <br>
 
 ## 🎀 STEP 02 -  Get Session
 
-<a href="https://ambitious-laina-vajiratech-7527bf26.koyeb.app/"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="GET SESSION" width="200"></a>
+<a href="https://ambitious-laina-vajiratech-7527bf26.koyeb.app/"><img src="https://img.shields.io/badge/QR%20OR%20PAIR%20CODE-blue" alt="VAJIRA-MD=uUMC0aBQ#0NFSHhZnMhC0785v-4RZu-LjfOZcUlMGQTCv_meMnP8" width="200"></a>
 
 `Not come session id use a vpn and try again`
 
