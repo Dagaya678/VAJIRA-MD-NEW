@@ -1,12 +1,12 @@
 {
-  "name":"VAJIRA-MD",
+  "name":"Dagaya-king-MD",
   "version":"2.1.2",
-  "description":"VAJIRA-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "description":"Dagaya-king-MD 𝐂𝐘𝐁𝐄𝐑 𝕿𒀂Iʂ ҈G➹R͡╘O╛P͌ hIꭻ𝚫ꮸ𝚱ꭼꭰᴮY d𝒂𒇲k 𝓽𝗼ʷ𝗻 ❝𝐤𝐢𝐧𝐠❞ WhatsApp. 👨‍💻❤️",
   "main":"index.js",
   "scripts":{
-    "start":"pm2 start index.js --deep-monitoring --attach --name vajira",
-    "stop":"pm2 stop vajira",
-    "restart":"pm2 restart vajira"},
+    "start":"pm2 start index.js --deep-monitoring --attach --name Dagaya",
+    "stop":"pm2 stop Dagaya",
+    "restart":"pm2 restart Dagaya"},
   "dependencies":{
     "@adiwajshing/keyed-db":"^0.2.4",
     "@blackamda/telegram-image-url":"^1.0.0",
