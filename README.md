@@ -1,9 +1,9 @@
 
-<h1 align="center">VAJIRA-MD 6.O</h1>
+<h1 align="center">Dagaya-king-MD 6.O</h1>
 
-## Have anyone more tha 3 year old whatsapp number message to me now  https://wa.me/94711453361
+## Have anyone more tha 3 year old whatsapp number message to me now  https://wa.me/94756059852
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<img src="https://imgur.com/a/Nf3u7YN" height="90" width="100%">
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=VAJIRA+MD+WHATSAPP+BOT" alt="Typing SVG" /></a>
@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/github/forks/VajiraTech/VAJIRA-MD-NEW?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/VajiraTech/VAJIRA-MD-NEW/stargazers">
+  <a href="https://github.com/VajiraTech/Dagaya-king-MD/stargazers">
     <img src="https://img.shields.io/github/stars/VajiraTech/VAJIRA-MD-NEW?style=social">
   </a>
 </p>
